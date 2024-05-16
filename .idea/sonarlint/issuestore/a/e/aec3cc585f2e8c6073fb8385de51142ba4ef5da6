@@ -1,0 +1,9 @@
+
+•	java:S116<"ZRename this field "FechaDeRegistro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¼ª•J$e52846c2-9a8b-4080-b6b6-312b3039bfcb
+f	java:S106p"+Replace this use of System.out by a logger.(­…¶ƒJ$1d78c025-db9d-42e6-88f7-eddb1c84f43f
+x
+java:S1128"7Remove this unused import 'javax.persistence.EnumType'.(ˆ«¨–üÿÿÿÿJ$00595025-c534-438d-b66a-013b87af6456
+z
+java:S1128"9Remove this unused import 'javax.persistence.Enumerated'.(¡ùşßûÿÿÿÿJ$f975cb00-5680-4c40-9226-23550b9b71ad
+{
+java:S1128"@Remove this unused import 'org.hibernate.annotations.ManyToAny'.(äÄè,J$5ea02739-47da-42b1-8687-bae0e205d1fa

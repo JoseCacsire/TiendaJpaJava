@@ -1,0 +1,18 @@
+
+}
+java:S1854"<Remove this useless assignment to local variable "producto".(ğĞ÷†ùÿÿÿÿJ$bfb4cd9b-95ca-45c1-a137-60ce1ea4c0fd
+n
+java:S1481"-Remove this unused "producto" local variable.(ğĞ÷†ùÿÿÿÿJ$e49cafe6-aa04-4013-afc1-a74d1d35c154
+w	java:S125"<This block of commented-out lines of code should be removed.( ô›€J$3bfe7821-b886-404d-ab7c-80f5ca89c408
+f	java:S106"+Replace this use of System.out by a logger.(ÿüñœJ$a61cd959-833a-4a78-a5cc-00615a9b342c
+v	java:S125"<This block of commented-out lines of code should be removed.(¨·ÁxJ$74f7ed94-2a58-4b83-b3c7-04f00686e70b
+|	java:S125 "<This block of commented-out lines of code should be removed.(¤™¡ÌÿÿÿÿÿJ$3bd2e86e-fe0b-4f21-9666-1771c95d121c
+k	java:S106$"+Replace this use of System.out by a logger.(Š´üôúÿÿÿÿJ$7d726ffb-53d0-4fb5-aed6-bdb780d161e8
+|	java:S125&"<This block of commented-out lines of code should be removed.(·‡‘şÿÿÿÿJ$2d9a6910-4c72-41d1-8e59-9c4367aac69a
+|	java:S125+"<This block of commented-out lines of code should be removed.(°Õ­²ÿÿÿÿÿJ$b912640f-1ebe-4034-bf81-f17fc655a868
+|	java:S125."<This block of commented-out lines of code should be removed.(÷öŒ¦ûÿÿÿÿJ$a6129e37-fb63-409a-ac74-a6c3dda0eb12
+|	java:S1250"<This block of commented-out lines of code should be removed.(ùœ€ÆıÿÿÿÿJ$b10cf2af-5481-498d-9f81-3c4b5c781677
+z
+java:S1128"9Remove this unused import 'javax.persistence.EmbeddedId'.(Ñ£ù¢üÿÿÿÿJ$d100203e-101a-4ce4-8a64-f4ef757667fd
+‚
+java:S1128"FRemove this unused import 'com.latam.alura.tienda.modelo.CategoriaId'.(ëÔ³‹J$8a128fc4-8a67-4d7e-821d-2bf49344e23d

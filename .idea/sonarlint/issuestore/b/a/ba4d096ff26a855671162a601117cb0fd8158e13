@@ -1,0 +1,12 @@
+
+f	java:S106""+Replace this use of System.out by a logger.(ïæð÷J$e2190950-99f4-461e-9c66-c99a8ed95569
+k	java:S106#"+Replace this use of System.out by a logger.(¡³¨ŒøÿÿÿÿJ$ce1b1f31-68c9-497c-8cd2-b7fa4471e1cc
+w	java:S125/"<This block of commented-out lines of code should be removed.(Ïµ­¨J$aa01bd70-f96f-4c4a-8679-defd68c002c5
+w	java:S1252"<This block of commented-out lines of code should be removed.(¦ü÷­J$1a050bc2-94da-43f6-8ca7-93de66b12e2a
+w	java:S125B"<This block of commented-out lines of code should be removed.(ÍÇŽêJ$1f5f7d76-c2fe-44a5-84ad-9f4b0469ac13
+k	java:S106D"+Replace this use of System.out by a logger.(ÁÅÅúúÿÿÿÿJ$2bb0b54e-7478-4ed9-acf4-22b45b513726
+|
+java:S1612F"@Replace this lambda with method reference 'System.out::println'.(ÍÇŽêJ$60b0cbae-4106-49da-9fd9-f08b5af01065
+f	java:S106F"+Replace this use of System.out by a logger.(ÍÇŽêJ$265cae90-25ea-44c7-8401-55781119a10e
+k
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕJ$9d1e9590-6cbd-4a1f-adcb-43d65a2f6ec1
